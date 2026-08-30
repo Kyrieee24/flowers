@@ -1,0 +1,6 @@
+{
+  "name": "Blooming Pink Flower",
+  "description": "An interactive, romantic blooming pink flower bouquet animation built with pure CSS and JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
